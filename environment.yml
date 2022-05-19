@@ -1,0 +1,20 @@
+name: wildlife-snow-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - geopandas
+  - matplotlib
+  - rasterio
+  - shapely
+  - xarray
+  - geoviews
+  - cartopy
+  - hvplot
+  - holoviews
+  - scikit-image
+  - rioxarray
+  - ipykernel
+  - pip
