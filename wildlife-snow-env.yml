@@ -171,7 +171,7 @@ dependencies:
   - pcre=8.45=h0e60522_0
   - pickleshare=0.7.5=py_1003
   - pillow=9.1.1=py39ha53f419_0
-  - pip=22.1=pyhd8ed1ab_0
+  - pip=22.0.4=pyhd8ed1ab_0
   - pixman=0.40.0=h8ffe710_0
   - poppler=22.04.0=h24fffdf_0
   - poppler-data=0.4.11=hd8ed1ab_0
